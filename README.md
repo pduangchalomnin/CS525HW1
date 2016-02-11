@@ -16,7 +16,7 @@
 
 =================================================================
 
-##### Instruction to run program:
+#### Instruction to run program:
 
 1. Open command line
 
@@ -37,5 +37,5 @@ ol1row2,col2row2,...,colNrow2
 
 ==============
 #### Limitation
-1. Given file have to be complete in each row
+1. Given file have to be complete in each row (Amount of header and body’s have to be equal)
 2. Assume all given data is a string type (Compare schema only by name)
