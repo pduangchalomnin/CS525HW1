@@ -1,5 +1,9 @@
 # CS525HW1
 
+#### What is it?
+ * This Program intention is to retrieve 2 text files which we assume as 2 database tables and
+ * perform 3 database operations i.e. Cartesian product, natural join, left outer join.
+==============
 #### System Requirement
 - Java 1.8 or above (In case you run .class in bin directory otherwise 1.7 or above)
 
