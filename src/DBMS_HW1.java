@@ -11,7 +11,6 @@ import java.util.LinkedHashMap;
 
 import java.util.Scanner;
 
-// TODO: Auto-generated Javadoc
 /**
  * This Program intention is to retrieve 2 text files which we assume as 2 database tables and
  * perform 3 database operations i.e. Cartesian product, natural join, left outer join.
